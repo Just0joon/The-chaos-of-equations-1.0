@@ -1,4 +1,3 @@
-</style>
 # The chaos of equations **[1.0]**
 ## *Релиз!!* 🎉🎉🎉
 ### <img src="Readme gif1.gif" width="225">
